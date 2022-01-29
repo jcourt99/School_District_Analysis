@@ -8,7 +8,7 @@ The school board states that the math and reading scores for Thomas High School 
 
 ### How is the district summary affected?
 
-After removing the ninth-grade scores, the district summary was affected only slightly. 
+After removing the ninth-grade scores, the district summary was not affected per the results shown below. 
 The first analysis district summary gave these results:
 ![1st District Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/District_Summary1.PNG)
 
@@ -17,6 +17,8 @@ The second analysis district summary gave these results:
 
 
 ### How is the school summary affected?
+
+The school summary
 
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
