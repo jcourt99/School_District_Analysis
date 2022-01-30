@@ -38,6 +38,9 @@ Thomas High School's overall passing percentage changed by 0.31% after removing 
 The only change to the math and reading score averages per grade was the removal of the ninth-grade data. This removal of data did not affect the average scores of all other grades.
 
 ### Scores by school spending
+There was no change to the analysis of reading and math scores by school spending per student. The removal of the ninth-grade data did not affect this chart.
+![Scores by spending](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/Spending_Ranges2.PNG)
+
 
 
 Scores by school size
