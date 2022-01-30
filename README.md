@@ -35,13 +35,31 @@ Thomas High School's overall passing percentage changed by 0.31% after removing 
 ![Top 5 schools](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/Top_5_schools.PNG)
 
 ### Math and Reading Scores by Grade
+
 The only change to the math and reading score averages per grade was the removal of the ninth-grade data. This removal of data did not affect the average scores of all other grades.
 
-### Scores by school spending
+### Scores by School Spending
+There was no change to the analysis of reading and math scores by school spending per student. The removal of the ninth-grade data did not affect this chart.
+
+![Scores by spending](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/Spending_Ranges2.PNG)
+
+### Scores by School Size
+
+There was no change to the data in this chart which compares the school size to the reading and math scores.
+
+![Scores by size](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/Size_Summary1.PNG)
 
 
-Scores by school size
-Scores by school type
+### Scores by School Type
+
+After removing the ninth-grade data, there was no change to the chart that compares the math and reading scores to the school size.
+
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The removal of the ninth-grade data had the following effects to the analysis:
+* All ninth-grade math and reading scores were replaced with "NaN"
+* The passing math percentage for Thomas High School dropped by 0.08% in the School Summary
+* The passing reading percentage for Thomas High School dropped by 0.21% in the School Summary
+* The overall passing percentage for Thomas High School dropped by 0.31% in the School Summary
+
+After analyzing the data with and without the ninth-grade scores, the conclusion is that there is no significant change to the results of the analysis. Thomas High School remained the second highest performing school during both analyses.
