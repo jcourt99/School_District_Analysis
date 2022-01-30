@@ -8,7 +8,9 @@ The school board states that the math and reading scores for Thomas High School 
 
 ### How is the district summary affected?
 
-After removing the ninth-grade scores, the district summary was not affected per the results shown below. 
+After removing the 461 ninth-grade scores, the district summary was affected very slightly per the results shown below. 
+The passing math percentage dropped by 0.1%, the passing reading percentage dropped by 0.1%, and the overall passing percentage dropped by 0.2%. 
+
 The first analysis district summary gave these results:
 ![1st District Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/District_Summary1a.PNG)
 
@@ -18,7 +20,7 @@ The second analysis district summary gave these results:
 
 ### How is the school summary affected?
 
-The school summary
+The school summary 
 
 The first analysis school summary gave these results:
 ![1st School Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/School_Summary1.PNG)
