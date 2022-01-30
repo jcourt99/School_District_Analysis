@@ -20,6 +20,12 @@ The second analysis district summary gave these results:
 
 The school summary
 
+The first analysis school summary gave these results:
+![1st School Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/School_Summary1a.PNG)
+
+The second analysis school summary gave these results:
+![2nd School Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/School_Summary2a.PNG)
+
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
 ### How does replacing the ninth grade scores affect the following:
