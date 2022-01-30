@@ -20,10 +20,10 @@ The second analysis district summary gave these results:
 
 ### How is the school summary affected?
 
-The school summary 
+The school summary was affected very slightly by removing the Thomas High School ninth-grade scores. The passing math percentage dropped  by 0.08%, the passing reading percentage dropped by 0.21%, and the overall passing percentage fell by 0.31%. 
 
 The first analysis school summary gave these results:
-![1st School Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/School_Summary1.PNG)
+![1st School Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/School_Summary1a.PNG)
 
 The second analysis school summary gave these results:
 ![2nd School Summary](https://github.com/jcourt99/School_District_Analysis/blob/main/Resources/School_Summary2a.PNG)
